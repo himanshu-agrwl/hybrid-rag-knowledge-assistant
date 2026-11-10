@@ -1,0 +1,6 @@
+Transformer is a neural network architecture used for various machine learning tasks, especially in natural language processing and computer vision. It focuses on understanding relationships within data to process information more effectively.
+
+Uses attention mechanisms to capture relationships between inputs
+Processes entire sequences at once instead of step by step
+Improves performance on tasks involving context and dependencies
+Widely used across NLP, vision and other AI applications

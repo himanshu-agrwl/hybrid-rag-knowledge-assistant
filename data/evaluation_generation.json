@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "question": "How can RAG answer questions about private documents without retraining a model?",
+    "expected_behavior": "answer",
+    "key_points": [
+      "Retrieves relevant document chunks",
+      "Passes retrieved context to a language model",
+      "Does not require retraining"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the difference between self-attention and cross-attention?",
+    "expected_behavior": "abstain",
+    "key_points": [
+      "The documents do not explain either concept"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Why might a RAG system produce an unsupported answer?",
+    "expected_behavior": "answer",
+    "key_points": [
+      "Retrieval can fail",
+      "A language model can generate unsupported claims"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What are the stages of a typical RAG pipeline?",
+    "expected_behavior": "answer",
+    "key_points": [
+      "Load documents",
+      "Split into chunks",
+      "Generate embeddings",
+      "Retrieve relevant chunks",
+      "Pass context to a language model",
+      "Generate an answer"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the exact GPU memory requirement for deploying this RAG system?",
+    "expected_behavior": "abstain",
+    "key_points": [
+      "No exact GPU memory requirement is documented"
+    ]
+  }
+]

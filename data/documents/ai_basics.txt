@@ -1,0 +1,11 @@
+Artificial Intelligence and Machine Learning
+
+Artificial intelligence (AI) is the broader field of building
+systems that perform tasks associated with intelligent behavior.
+
+Machine learning (ML) is a subset of AI. Machine learning
+algorithms learn patterns from data instead of relying only
+on explicitly written rules.
+
+Deep learning is a subset of machine learning that uses
+neural networks with multiple layers.

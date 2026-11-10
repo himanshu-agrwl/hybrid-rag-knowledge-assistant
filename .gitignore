@@ -1,0 +1,33 @@
+@"
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+
+.vscode/
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore
+
+@"
+
+# Temporary and test data
+data/generation_results.json
+data/documents/notes/
+data/documents/unsupported.csv
+
+# Exploratory scripts
+list_gemini_models.py
+test_gemini.py
+test_generator.py
+test_model.py
+"@ | Add-Content .gitignore

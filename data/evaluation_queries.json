@@ -1,0 +1,69 @@
+
+[
+  {
+    "query": "How do AI, ML, and deep neural networks relate to one another?",
+    "relevant_chunk_ids": [
+      "69b0207ce95c5fec_0",
+      "69b0207ce95c5fec_1"
+    ]
+  },
+  {
+    "query": "Deep learning is a subset of what?",
+    "relevant_chunk_ids": [
+      "69b0207ce95c5fec_1"
+    ]
+  },
+  {
+    "query": "What does machine learning learn from data instead of explicitly programmed rules?",
+    "relevant_chunk_ids": [
+      "69b0207ce95c5fec_1"
+    ]
+  },
+  {
+    "query": "List the steps in a retrieval-augmented generation pipeline.",
+    "relevant_chunk_ids": [
+      "c9e7f6478d935225_0",
+      "c9e7f6478d935225_1"
+    ]
+  },
+  {
+    "query": "How can a system answer questions about private documents without retraining its model?",
+    "relevant_chunk_ids": [
+      "c9e7f6478d935225_2"
+    ]
+  },
+  {
+    "query": "Why might a RAG system produce an unsupported answer?",
+    "relevant_chunk_ids": [
+      "c9e7f6478d935225_2"
+    ]
+  },
+  {
+    "query": "What neural network architecture models relationships within data for NLP and computer vision?",
+    "relevant_chunk_ids": [
+      "61639a7b7e91ea7b_0"
+    ]
+  },
+  {
+    "query": "How does attention work inside a transformer?",
+    "relevant_chunk_ids": [
+      "61639a7b7e91ea7b_1"
+    ]
+  },
+  {
+    "query": "What is the difference between self-attention and cross-attention?",
+    "relevant_chunk_ids": []
+  },
+  {
+    "query": "Which optimizer and learning rate were used to train the transformer?",
+    "relevant_chunk_ids": []
+  },
+  {
+    "query": "What is the exact GPU memory requirement for deploying this RAG system?",
+    "relevant_chunk_ids": []
+  },
+  {
+    "query": "Which database stores the vectors in the documented RAG pipeline?",
+    "relevant_chunk_ids": []
+  }
+]
